@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://how-yak-chews-fit-into-the-natural.netlify.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
